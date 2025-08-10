@@ -111,9 +111,6 @@ Edit
 [6.5, 3.0, 5.5, 2.0]  → Iris-virginica  
 Output:
 
-yaml
-Copy
-Edit
 Test Predictions:
 Measurements: [5.1, 3.5, 1.4, 0.2] → Predicted Species: Iris-setosa
 Measurements: [6.0, 2.9, 4.5, 1.5] → Predicted Species: Iris-versicolor
